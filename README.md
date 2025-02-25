@@ -17,10 +17,13 @@ Setelah proses pembuatan desain selesai, admin akan mengunggah foto hasil desain
 Untuk pembayaran dan hal lainnya, dapat dilakukan melalui WhatsApp (WA).
 
 (PENTING!!!)
+
 Akun Admin:
 
 Email: mono@gmail.com
 Password: monoganteng
+
+
 Akun User:
 
 Email: awan@gmail.com
