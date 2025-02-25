@@ -1,4 +1,4 @@
-CARA PENGGUNAAN APLIKASI
+**CARA PENGGUNAAN APLIKASI**
 
 (User)
 Pengguna dapat mengeksplorasi profil perusahaan pada halaman utama (landing page).
@@ -25,4 +25,6 @@ Akun User:
 
 Email: awan@gmail.com
 Password: awanganteng
-Atau pengguna dapat melakukan Register untuk membuat akun baru.
+
+
+*Atau pengguna dapat melakukan Register untuk membuat akun baru.
